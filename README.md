@@ -8,4 +8,7 @@
 ### Se debe ir a preferencias y se debe agregar en gestor el siguiente enlace
 <img src="https://github.com/IDiegoUlises/Esp32-Instalacion-y-Hola-Mundo/blob/main/Images/Paso1.jpg"/>
 
+* [https://dl.espressif.com/dl/package_esp32_index.json](https://dl.espressif.com/dl/package_esp32_index.json)
+* **Luego presionar Ok**
+
 
