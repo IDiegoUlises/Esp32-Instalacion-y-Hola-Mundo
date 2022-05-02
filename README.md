@@ -14,3 +14,6 @@
 ### En gestor de tarjetas se debe buscar esp32 y instalar
 <img src="https://github.com/IDiegoUlises/Esp32-Instalacion-y-Hola-Mundo/blob/main/Images/Paso2.jpg"/>
 
+### Por ultimo se debe seleccionar la placa ESP32 Dev Module
+<img src="https://github.com/IDiegoUlises/Esp32-Instalacion-y-Hola-Mundo/blob/main/Images/Paso3.jpg"/>
+
