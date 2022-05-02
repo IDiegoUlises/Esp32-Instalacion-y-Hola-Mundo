@@ -17,7 +17,7 @@
 ### Por ultimo se debe seleccionar la placa ESP32 Dev Module
 <img src="https://github.com/IDiegoUlises/Esp32-Instalacion-y-Hola-Mundo/blob/main/Images/Paso3.jpg"/>
 
-### Un hola mundo en Esp32
+### Apagar y prender el led incorporado en el Esp32
 ```c++
 int led = 2;
 void setup()
@@ -33,5 +33,5 @@ void loop()
   delay(1000);
 }
 ```
-* **Se le da la opcion compilar**
-* **Se prendara el led incorporado en esp32 y se apagara en 1 segundo**
+* **Luego se le da la opcion compilar**
+* **Se prendara el led incorporado y se apagara en 1 segundo**
